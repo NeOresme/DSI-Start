@@ -45,4 +45,10 @@ Leave TODO: statements in your code, for later development
 
 to exclude/include a comment: cntrl+/
 
+Basic operators: +-, */, **, //, %, ==
+Scalar objects: str, int, float, bool
+logic operators (and, or, not): <, >, <=, >=, ==, !=
+And operation (both all must be true to be true)
+Or operation (one must be true to be true)
+Bitwise: and, or, not: &, |, ~      [exclusive or: ^]
 
