@@ -51,4 +51,18 @@ logic operators (and, or, not): <, >, <=, >=, ==, !=
 And operation (both all must be true to be true)
 Or operation (one must be true to be true)
 Bitwise: and, or, not: &, |, ~      [exclusive or: ^]
+RANKING (Highest to lowest: ~, &, ^, |, not, and, or)
+Control Flow: if, elif, else
+Use in comparision operators (5 != 3 --> True)
 
+Standars for Lists:
+-recognize a list 
+-understand a collection
+-generate a series of numbers using range 
+-access values in a list 
+-determine if something is a memeber of a list 
+-slice a specific portion of a list
+-recognize a nested list 
+--a list is : ordered, mutable, accessible by index, dynamic, nested to arbitrary depth.
+--print(range(start, stop, step)
+list(range(100))
