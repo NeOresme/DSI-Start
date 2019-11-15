@@ -66,3 +66,26 @@ Standars for Lists:
 --a list is : ordered, mutable, accessible by index, dynamic, nested to arbitrary depth.
 --print(range(start, stop, step)
 list(range(100))
+
+list.append()    --> appends a list with ONE item (nested)
+list.extend()    --> appends a list continuously 
+list.remove()    --> removes the specified thing (first instance)
+enumerate()      --> ?
+
+inputs to a function are called parameters when you are referring to them in the context of the function, and inputs are called arguments when they are actually passed into a function. ou can always check which methods are associated with the specific object by typing the objects name, followed by a period ("."), and hitting the tab key.
+
+An object is some memory that holds a value of a given type.
+A variable is a named object.
+
+for loops
+while loops
+
+isinstance checks for type of value 
+
+result = 100
+for i in x:
+    result -= i
+    
+loop tools: break, continue, pass
+break: exiting loops
+    
