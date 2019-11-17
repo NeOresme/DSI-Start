@@ -89,3 +89,6 @@ for i in x:
 loop tools: break, continue, pass
 break: exiting loops
     
+casting to a set (set() or {}) removes all duplicates from list/tuple
+
+
